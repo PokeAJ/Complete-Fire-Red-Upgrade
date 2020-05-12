@@ -6,55 +6,55 @@ FILL_FF=True
 Normal
 
 #org @NAME_FIGHTING
-Fight
+Lucha
 
 #org @NAME_FLYING
-Flying
+Volad.
 
 #org @NAME_POISON
-Poison
+Veneno
 
 #org @NAME_GROUND
-Ground
+Tierra
 
 #org @NAME_ROCK
-Rock
+Roca
 
 #org @NAME_BUG
-Bug
+Bicho
 
 #org @NAME_GHOST
-Ghost
+Fant.
 
 #org @NAME_STEEL
-Steel
+Acero
 
 #org @NAME_TYPELESS
 ???
 
 #org @NAME_FIRE
-Fire
+Fuego
 
 #org @NAME_WATER
-Water
+Agua
 
 #org @NAME_GRASS
-Grass
+Planta
 
 #org @NAME_ELECTRIC
-Electr
+Eléct.
 
 #org @NAME_PSYCHC
-Psychc
+Psíq.
 
 #org @NAME_ICE
-Ice
+Hielo
 
 #org @NAME_DRAGON
-Dragon
+Dragón
 
 #org @NAME_DARK
-Dark
+Sinie.
 
 #org @FAIRY_TYPE_ALIGNMENT_1
 -
@@ -72,4 +72,4 @@ Dark
 -
 
 #org @NAME_FAIRY
-Fairy
+Hada
