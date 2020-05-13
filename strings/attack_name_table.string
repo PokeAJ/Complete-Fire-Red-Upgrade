@@ -6,499 +6,499 @@ FILL_FF=True
 -
 
 #org @NAME_POUND
-Pound
+Destructor
 
 #org @NAME_KARATE_CHOP
-Karate Chop
+Golpe Karate
 
 #org @NAME_DOUBLESLAP
-Double Slap
+Doblebofetón
 
 #org @NAME_COMET_PUNCH
-Comet Punch
+Puño Cometa
 
 #org @NAME_MEGA_PUNCH
-Mega Punch
+Megapuño
 
 #org @NAME_PAY_DAY
-Pay Day
+Día de Pago
 
 #org @NAME_FIRE_PUNCH
-Fire Punch
+Puño Fuego
 
 #org @NAME_ICE_PUNCH
-Ice Punch
+Puño Hielo
 
 #org @NAME_THUNDERPUNCH
-ThunderPunch
+Puño Trueno
 
 #org @NAME_SCRATCH
-Scratch
+Arañazo
 
 #org @NAME_VISE_GRIP
-Vise Grip
+Agarre
 
 #org @NAME_GUILLOTINE
-Guillotine
+Guillotina
 
 #org @NAME_RAZOR_WIND
-Razor Wind
+V. Cortante
 
 #org @NAME_SWORDS_DANCE
-Swords Dance
+Danza Espada
 
 #org @NAME_CUT
-Cut
+Corte
 
 #org @NAME_GUST
-Gust
+Tornado
 
 #org @NAME_WING_ATTACK
-Wing Attack
+Ataque Ala
 
 #org @NAME_WHIRLWIND
-Whirlwind
+Remolino
 
 #org @NAME_FLY
-Fly
+Vuelo
 
 #org @NAME_BIND
-Bind
+Atadura
 
 #org @NAME_SLAM
-Slam
+Atizar
 
 #org @NAME_VINE_WHIP
-Vine Whip
+Látigo Cepa
 
 #org @NAME_STOMP
-Stomp
+Pisotón
 
 #org @NAME_DOUBLE_KICK
-Double Kick
+Doble Patada
 
 #org @NAME_MEGA_KICK
-Mega Kick
+Megapatada
 
 #org @NAME_JUMP_KICK
-Jump Kick
+Patada Salto
 
 #org @NAME_ROLLING_KICK
-Rolling Kick
+Patada Giro
 
 #org @NAME_SAND_ATTACK
-Sand Attack
+Ataque Arena
 
 #org @NAME_HEADBUTT
-Headbutt
+Golpe Cabeza
 
 #org @NAME_HORN_ATTACK
-Horn Attack
+Cornada
 
 #org @NAME_FURY_ATTACK
-Fury Attack
+Ataque Furia
 
 #org @NAME_HORN_DRILL
-Horn Drill
+Perforador
 
 #org @NAME_TACKLE
-Tackle
+Placaje
 
 #org @NAME_BODY_SLAM
-Body Slam
+Golpe Cuerpo
 
 #org @NAME_WRAP
-Wrap
+Constricción
 
 #org @NAME_TAKE_DOWN
-Take Down
+Derribo
 
 #org @NAME_THRASH
-Thrash
+Golpe
 
 #org @NAME_DOUBLE_EDGE
-Double-Edge
+Doble Filo
 
 #org @NAME_TAIL_WHIP
-Tail Whip
+Látigo
 
 #org @NAME_POISON_STING
-Poison Sting
+Picotazo Ven
 
 #org @NAME_TWINEEDLE
-Twineedle
+Doble ataque
 
 #org @NAME_PIN_MISSILE
-Pin Missile
+Pin Misil
 
 #org @NAME_LEER
-Leer
+Malicioso
 
 #org @NAME_BITE
-Bite
+Mordisco
 
 #org @NAME_GROWL
-Growl
+Gruñido
 
 #org @NAME_ROAR
-Roar
+Rugido
 
 #org @NAME_SING
-Sing
+Canto
 
 #org @NAME_SUPERSONIC
-Supersonic
+Supersónico
 
 #org @NAME_SONIC_BOOM
-Sonic Boom
+Bomba Sónica
 
 #org @NAME_DISABLE
-Disable
+Anulación
 
 #org @NAME_ACID
-Acid
+Ácido
 
 #org @NAME_EMBER
-Ember
+Ascuas
 
 #org @NAME_FLAMETHROWER
-Flamethrower
+Lanzallamas
 
 #org @NAME_MIST
-Mist
+Neblina
 
 #org @NAME_WATER_GUN
-Water Gun
+Pistola Agua
 
 #org @NAME_HYDRO_PUMP
-Hydro Pump
+Hidrobomba
 
 #org @NAME_SURF
 Surf
 
 #org @NAME_ICE_BEAM
-Ice Beam
+Rayo Hielo
 
 #org @NAME_BLIZZARD
-Blizzard
+Ventisca
 
 #org @NAME_PSYBEAM
-Psybeam
+Psicorrayo
 
 #org @NAME_BUBBLE_BEAM
-Bubble Beam
+Rayo Burbuja
 
 #org @NAME_AURORA_BEAM
-Aurora Beam
+Rayo Aurora
 
 #org @NAME_HYPER_BEAM
-Hyper Beam
+Hiperrayo
 
 #org @NAME_PECK
-Peck
+Picotazo
 
 #org @NAME_DRILL_PECK
-Drill Peck
+Pico Taladro
 
 #org @NAME_SUBMISSION
-Submission
+Sumisión
 
 #org @NAME_LOW_KICK
-Low Kick
+Patada Baja
 
 #org @NAME_COUNTER
-Counter
+Contraataque
 
 #org @NAME_SEISMIC_TOSS
-Seismic Toss
+Sísmico
 
 #org @NAME_STRENGTH
-Strength
+Fuerza
 
 #org @NAME_ABSORB
-Absorb
+Absorber
 
 #org @NAME_MEGA_DRAIN
-Mega Drain
+Megaagotar
 
 #org @NAME_LEECH_SEED
-Leech Seed
+Drenadoras
 
 #org @NAME_GROWTH
-Growth
+Desarrollo
 
 #org @NAME_RAZOR_LEAF
-Razor Leaf
+Hoja Afilada
 
 #org @NAME_SOLAR_BEAM
-Solar Beam
+Rayo Solar
 
 #org @NAME_POISONPOWDER
-PoisonPowder
+Polvo Veneno
 
 #org @NAME_STUN_SPORE
-Stun Spore
+Paralizador
 
 #org @NAME_SLEEP_POWDER
-Sleep Powder
+Somnífero
 
 #org @NAME_PETAL_DANCE
-Petal Dance
+Danza Pétalo
 
 #org @NAME_STRING_SHOT
-String Shot
+Disp. Demora
 
 #org @NAME_DRAGON_RAGE
-Dragon Rage
+Furia Dragón
 
 #org @NAME_FIRE_SPIN
-Fire Spin
+Giro Fuego
 
 #org @NAME_THUNDERSHOCK
-ThunderShock
+Impactrueno
 
 #org @NAME_THUNDERBOLT
-Thunderbolt
+Rayo
 
 #org @NAME_THUNDER_WAVE
-Thunder Wave
+Onda Trueno
 
 #org @NAME_THUNDER
-Thunder
+Trueno
 
 #org @NAME_ROCK_THROW
-Rock Throw
+Lanzarrocas
 
 #org @NAME_EARTHQUAKE
-Earthquake
+Terremoto
 
 #org @NAME_FISSURE
-Fissure
+Fisura
 
 #org @NAME_DIG
-Dig
+Excavar
 
 #org @NAME_TOXIC
-Toxic
+Tóxico
 
 #org @NAME_CONFUSION
-Confusion
+Confusión
 
 #org @NAME_PSYCHIC
-Psychic
+Psíquico
 
 #org @NAME_HYPNOSIS
-Hypnosis
+Hipnosis
 
 #org @NAME_MEDITATE
-Meditate
+Meditación
 
 #org @NAME_AGILITY
-Agility
+Agilidad
 
 #org @NAME_QUICK_ATTACK
-Quick Attack
+At. Rápido
 
 #org @NAME_RAGE
-Rage
+Furia
 
 #org @NAME_TELEPORT
-Teleport
+Teletransp
 
 #org @NAME_NIGHT_SHADE
-Night Shade
+Tinieblas
 
 #org @NAME_MIMIC
-Mimic
+Mimético
 
 #org @NAME_SCREECH
-Screech
+Chirrido
 
 #org @NAME_DOUBLE_TEAM
-Double Team
+Doble Equipo
 
 #org @NAME_RECOVER
-Recover
+Recuperación
 
 #org @NAME_HARDEN
-Harden
+Fortaleza
 
 #org @NAME_MINIMIZE
-Minimize
+Reducción
 
 #org @NAME_SMOKESCREEN
-Smokescreen
+Pantallahumo
 
 #org @NAME_CONFUSE_RAY
-Confuse Ray
+Rayo Confuso
 
 #org @NAME_WITHDRAW
-Withdraw
+Refugio
 
 #org @NAME_DEFENSE_CURL
-Defense Curl
+Rizo Defensa
 
 #org @NAME_BARRIER
-Barrier
+Barrera
 
 #org @NAME_LIGHT_SCREEN
-Light Screen
+Pantalla Luz
 
 #org @NAME_HAZE
-Haze
+Niebla
 
 #org @NAME_REFLECT
-Reflect
+Reflejo
 
 #org @NAME_FOCUS_ENERGY
-Focus Energy
+Foco Energía
 
 #org @NAME_BIDE
-Bide
+Venganza
 
 #org @NAME_METRONOME
-Metronome
+Metrónomo
 
 #org @NAME_MIRROR_MOVE
-Mirror Move
+Espejo
 
 #org @NAME_SELFDESTRUCT
-Selfdestruct
+Autodestruc
 
 #org @NAME_EGG_BOMB
-Egg Bomb
+Bomba Huevo
 
 #org @NAME_LICK
-Lick
+Lengüetazo
 
 #org @NAME_SMOG
-Smog
+Polución
 
 #org @NAME_SLUDGE
-Sludge
+Residuos
 
 #org @NAME_BONE_CLUB
-Bone Club
+Hueso Palo
 
 #org @NAME_FIRE_BLAST
-Fire Blast
+Llamarada
 
 #org @NAME_WATERFALL
-Waterfall
+Cascada
 
 #org @NAME_CLAMP
-Clamp
+Tenaza
 
 #org @NAME_SWIFT
-Swift
+Rapidez
 
 #org @NAME_SKULL_BASH
-Skull Bash
+Cabezazo
 
 #org @NAME_SPIKE_CANNON
-Spike Cannon
+Clavo Cañón
 
 #org @NAME_CONSTRICT
-Constrict
+Restricción
 
 #org @NAME_AMNESIA
 Amnesia
 
 #org @NAME_KINESIS
-Kinesis
+Kinético
 
 #org @NAME_SOFT_BOILED
-Soft-Boiled
+Amortiguador
 
 #org @NAME_HI_JUMP_KICK
-Hi Jump Kick
+Pat. S. Alta
 
 #org @NAME_GLARE
-Glare
+Deslumbrar
 
 #org @NAME_DREAM_EATER
-Dream Eater
+Comesueños
 
 #org @NAME_POISON_GAS
-Poison Gas
+Gas Venenoso
 
 #org @NAME_BARRAGE
-Barrage
+Bombardeo
 
 #org @NAME_LEECH_LIFE
-Leech Life
+Chupavidas
 
 #org @NAME_LOVELY_KISS
-Lovely Kiss
+Beso Amoroso
 
 #org @NAME_SKY_ATTACK
-Sky Attack
+Ataque Aéreo
 
 #org @NAME_TRANSFORM
 Transform
 
 #org @NAME_BUBBLE
-Bubble
+Burbuja
 
 #org @NAME_DIZZY_PUNCH
-Dizzy Punch
+Puño Mareo
 
 #org @NAME_SPORE
-Spore
+Espora
 
 #org @NAME_FLASH
-Flash
+Destello
 
 #org @NAME_PSYWAVE
-Psywave
+Psicoonda
 
 #org @NAME_SPLASH
-Splash
+Salpicadura
 
 #org @NAME_ACID_ARMOR
-Acid Armor
+Armad. ácida
 
 #org @NAME_CRABHAMMER
-Crabhammer
+Martillazo
 
 #org @NAME_EXPLOSION
-Explosion
+Explosión
 
 #org @NAME_FURY_SWIPES
-Fury Swipes
+Golpes Furia
 
 #org @NAME_BONEMERANG
-Bonemerang
+Huesomerang
 
 #org @NAME_REST
-Rest
+Descanso
 
 #org @NAME_ROCK_SLIDE
-Rock Slide
+Avalancha
 
 #org @NAME_HYPER_FANG
-Hyper Fang
+Hip.Colmillo
 
 #org @NAME_SHARPEN
-Sharpen
+Afilar
 
 #org @NAME_CONVERSION
-Conversion
+Conversión
 
 #org @NAME_TRI_ATTACK
-Tri Attack
+Triataque
 
 #org @NAME_SUPER_FANG
-Super Fang
+Superdiente
 
 #org @NAME_SLASH
-Slash
+Cuchillada
 
 #org @NAME_SUBSTITUTE
-Substitute
+Sustituto
 
 #org @NAME_STRUGGLE
-Struggle
+Forcejeo
 
 #org @NAME_SKETCH
 Sketch
